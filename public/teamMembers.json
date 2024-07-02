@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Lucas Williams",
+        "position": "Volunteer",
+        "details": {
+            "role": "Assisting in organizing events and campaigns."
+        },
+        "img": "../src/assets/teamMem/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Emily Wilson",
+        "position": "Donor",
+        "details": {
+            "role": "Regular blood donor, contributing to blood bank supplies."
+        },
+        "img": "../src/assets/teamMem/2.jpg"
+    },
+   
+    {
+        "id": 3,
+        "name": "Sophia Brown",
+        "position": "Volunteer",
+        "details": {
+            "role": "Providing assistance during blood donation drives."
+        },
+        "img": "../src/assets/teamMem/4.jpg"
+    }, {
+        "id": 4,
+        "name": "Oliver Anderson",
+        "position": "Admin",
+        "details": {
+            "role": "Managing volunteer schedules and coordinating activities."
+        },
+        "img": "../src/assets/teamMem/3.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Aiden Thomas",
+        "position": "Donor",
+        "details": {
+            "role": "Regular platelet donor, helping patients with clotting disorders."
+        },
+        "img": "../src/assets/teamMem/5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Ava Martinez",
+        "position": "Admin",
+        "details": {
+            "role": "Managing donor database and organizing outreach programs."
+        },
+        "img": "../src/assets/teamMem/6.jpg"
+    }
+]
